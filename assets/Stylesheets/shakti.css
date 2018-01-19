@@ -133,7 +133,8 @@ ul.shaktiul li{
     float: right;
     overflow: hidden;
     background: #2c3e50;
-    background: rgba(43, 97, 151, 0.4);
+    /* background: rgba(43, 97, 151, 0.4); */
+    background:white;
     color: #eee;
     min-height: 400px;
 }
@@ -146,7 +147,8 @@ ul.shaktiul li{
     float: right;
     overflow: hidden;
     background: #2c3e50;
-    background: rgba(43, 97, 151, 0.4);
+    background:white;
+    /* background: rgba(43, 97, 151, 0.4); */
     color: #eee;
     min-height: 400px;
 }
